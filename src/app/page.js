@@ -38,8 +38,8 @@ export default function Home() {
 
       <div className={styles.container}>
         <div className={styles.hero}>
-          <h1 className= "mile">He Bagh</h1>
-          <p>Congratulations, you&apos;ve deployed a React + Next.js site with FL0!</p>
+          <h1 className= "mile">He Bagh.</h1>
+          <p>Pille</p>
         </div>
         <div className={styles.logo}>
           <Image src="/images/logo.svg" loading="lazy" alt="" width="70" height="25" />
